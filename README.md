@@ -52,4 +52,5 @@ The grind, in order:
 
 | Box | Platform | OS | Difficulty | Date |
 |---|---|---|---|---|
+| [Gaara](gaara/) | Proving Grounds Play | Linux | Easy | 2026-10-17 |
 | [Vegeta1](vegeta1/) | Proving Grounds Play | Linux | Easy | 2026-10-16 |
