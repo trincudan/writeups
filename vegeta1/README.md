@@ -1,4 +1,4 @@
----
+<!-- writeup-meta
 title: Vegeta1
 platform: Proving Grounds Play
 os: Linux
@@ -10,7 +10,9 @@ tags:
   - linux
   - encoding
   - privesc
----
+-->
+# Vegeta1
+
 ## 1. Recon
 
 ### 1.1 Nmap
