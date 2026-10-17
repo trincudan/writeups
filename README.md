@@ -49,3 +49,7 @@ The grind, in order:
 > The table below is auto-generated — newest techniques, cleanest paths.
 
 <!-- WRITEUPS_INTRO_END -->
+
+| Box | Platform | OS | Difficulty | Date |
+|---|---|---|---|---|
+| [Vegeta1](vegeta1/) | Proving Grounds Play | Linux | Easy | 2026-10-16 |
