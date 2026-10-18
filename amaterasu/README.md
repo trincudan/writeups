@@ -203,7 +203,7 @@ Within a minute the cron fires and the payload runs as root, dropping the flag i
 
 - **Cron + bare binary name + writable PATH = root.** The classic PATH hijack. Always read `/etc/crontab` and check whether any scripted command is called unqualified with a writable directory ahead of it on `PATH`.
 
-- **New technique for my notes:** arbitrary-file-write → `authorized_keys`; cron `PATH` hijack on an unqualified `tar`. → privesc-linux
+- **New technique for my notes:** arbitrary-file-write → `authorized_keys`; cron `PATH` hijack on an unqualified `tar`.
 
 ## 5. Mitigation
 
