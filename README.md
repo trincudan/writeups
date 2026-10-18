@@ -52,7 +52,7 @@ The grind, in order:
 
 | Box | Platform | OS | Difficulty | Date |
 |---|---|---|---|---|
-| [Amaterasu](amaterasu/) | Proving Grounds Play | Linux | Easy | 2026-10-17 |
 | [Blogger](blogger/) | Proving Grounds Play | Linux | Easy | 2026-10-18 |
+| [Amaterasu](amaterasu/) | Proving Grounds Play | Linux | Easy | 2026-10-17 |
 | [Gaara](gaara/) | Proving Grounds Play | Linux | Easy | 2026-10-17 |
 | [Vegeta1](vegeta1/) | Proving Grounds Play | Linux | Easy | 2026-10-16 |
