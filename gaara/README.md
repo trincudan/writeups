@@ -163,7 +163,7 @@ uid=1001(gaara) gid=1001(gaara) euid=0(root) egid=0(root) groups=0(root),1001(ga
 
 - **SUID GIMP needs a display.** The `python-fu` method silently depends on X, so it can't run over SSH. Reach for a GTFOBins binary that doesn't need a GUI — `gdb` here.
 
-- **New technique for my notes:** SUID `gdb` → `sh -p` root shell. → privesc-linux
+- **New technique for my notes:** SUID `gdb` → `sh -p` root shell.
 
 ## 5. Mitigation
 
