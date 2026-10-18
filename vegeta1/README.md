@@ -191,7 +191,7 @@ uid=0(root) gid=0(root) groups=0(root)
 
 - **`.bash_history` is gold.** It handed over the exact privesc command and password. Always read history files on a new shell.
 
-- **Writable `/etc/passwd` = instant root.** Promote to notes: if `trunks` can append to `/etc/passwd`, mint a UID-0 user. → privesc-linux
+- **Writable `/etc/passwd` = instant root.** Promote to notes: if `trunks` can append to `/etc/passwd`, mint a UID-0 user.
 
 - **Where I'd be faster next time:** check `robots.txt` and view-source _before_ a long gobuster run — the first real clue was in a 11-byte robots file.
 
