@@ -52,6 +52,7 @@ The grind, in order:
 
 | Box | Platform | OS | Difficulty | Date |
 |---|---|---|---|---|
+| [Katana](katana/) | Proving Grounds Play | Linux | Easy | 2026-10-19 |
 | [Blogger](blogger/) | Proving Grounds Play | Linux | Easy | 2026-10-18 |
 | [Potato](potato/) | Proving Grounds Play | Linux | Easy | 2026-10-18 |
 | [Seppuku](seppuku/) | Proving Grounds Play | Linux | Easy | 2026-10-18 |
