@@ -52,6 +52,7 @@ The grind, in order:
 
 | Box | Platform | OS | Difficulty | Date |
 |---|---|---|---|---|
+| [Monitoring](monitoring/) | Proving Grounds Play | Linux | Easy | 2026-10-20 |
 | [DriftingBlues6](driftingblues6/) | Proving Grounds Play | Linux | Easy | 2026-10-19 |
 | [Election1](election1/) | Proving Grounds Play | Linux | Intermediate | 2026-10-19 |
 | [Katana](katana/) | Proving Grounds Play | Linux | Easy | 2026-10-19 |
